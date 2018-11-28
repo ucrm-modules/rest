@@ -27,7 +27,7 @@ class TicketTests extends BaseTestCase
     // =================================================================================================================
 
     /**
-     * @covers Ticket::insert()
+     * @covers Ticket->insert()
      * @throws \Exception
      */
     public function testTicketInsert()
