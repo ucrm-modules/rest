@@ -226,7 +226,7 @@ trait TicketHelper
 
         $insertedComment = $comment->insert();
 
-        echo $insertedComment;
+        //echo $insertedComment;
 
         return $this;
     }
